@@ -1,4 +1,4 @@
-(module TE_AMPMODU-MTE_5-103634-4_1x05_P2.54mm_Horizontal (layer F.Cu) (tedit 5B9BF355)
+(module TE_AMPMODU-MTE_5-103634-4_1x05_P2.54mm_Horizontal (layer F.Cu) (tedit 5C052BD4)
   (descr http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F103634%7FV%7Fpdf%7FEnglish%7FENG_CD_103634_V.pdf%7F5-103634-4)
   (tags "5pins Connector TE AMPMODU MTE 5-103634-4")
   (attr smd)
@@ -99,7 +99,7 @@
   (pad 3 thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 7.62 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 10.16 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connector_TE-Connectivity.3dshapes/TE_AMPMODU-MTE_5-103-634-4.wrl
+  (model ${KISYS3DMOD}/Connector_TE-Connectivity.3dshapes/TE_AMPMODU-MTE_5-103634-4.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
